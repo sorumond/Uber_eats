@@ -17,7 +17,7 @@
   color: var(--font_black);
   text-align: center;
   background: none;
-  border: 1px solid var(--border-grey);
+  border: 1px solid var(--border_grey);
   cursor: pointer;
   border-radius: 2px;
 }
@@ -54,7 +54,7 @@
   padding-left: 36px;
   padding-top: 8px;
   padding-bottom: 8px;
-  border: 1px solid var(--border-grey);
+  border: 1px solid var(--border_grey);
   border-radius: 2px;
 }
 
