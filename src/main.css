@@ -1,0 +1,22 @@
+@import "header/header.css";
+@import "order-delivery/order-delivery.css";
+@import "personal-area-bar/personal-area-bar.css";
+@import "main/main.css";
+
+* {
+  box-sizing: border-box;
+  font-family: var(--main_font);
+}
+
+body {
+  margin: 0;
+}
+
+:root {
+  --main_font: "Roboto", sans-serif;
+  --font_black: #1d1d1d;
+  --background-black: #262626;
+  --font_grey: #626262;
+  --border-grey: #e0e0e0;
+  --white: #fff;
+}

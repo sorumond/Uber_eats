@@ -1,0 +1,12 @@
+.search__wrapper {
+  width: 100%;
+}
+
+.search {
+  position: relative;
+}
+
+.search__button {
+  text-decoration: none;
+  color: white;
+}
