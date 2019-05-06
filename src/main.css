@@ -6,6 +6,12 @@
 @import "restautants-choose/restaurants-choose.css";
 @import "footer/footer.css";
 @import "restaurant-preview/restaurant-preview.css";
+@import "restaurant-preview/restaurant-preview_big.css";
+@import "restaurant-page/restaurant-page.css";
+@import "restaurant-page/proposition type/proposion-type.css";
+@import "restaurant-page/menu/menu.css";
+@import "restaurant-page/dish/dish.css ";
+
 * {
   box-sizing: border-box;
   font-family: var(--main_font);
@@ -23,4 +29,6 @@ body {
   --border_grey: #e0e0e0;
   --white: #fff;
   --border_dark_grey: #757575;
+  --font-green: #327430;
+  --border_light_grey: rgba(117, 117, 117, 0.2);
 }
