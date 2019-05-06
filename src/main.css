@@ -5,7 +5,7 @@
 @import "search/search.css";
 @import "restautants-choose/restaurants-choose.css";
 @import "footer/footer.css";
-
+@import "restaurant-preview/restaurant-preview.css";
 * {
   box-sizing: border-box;
   font-family: var(--main_font);
