@@ -1,13 +1,12 @@
-# Project Name
-
+#  Uber eats
 ### [Demo](https://sorumond.github.io/Uber_eats/src/)
 
 ### Description
 
-Tell about your project
+Uber eats web-site. 
 
 ### Technologies are used
 
 - HTML
 - CSS
-- ...
+- More soon
